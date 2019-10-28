@@ -2,13 +2,13 @@
   "name": "recipes_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cikadraza.github.io/Drazilica-Recipes",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
   },
+  "homepage": "https://github.com/CikaDraza/Drazilica-Recipes.git",
   "scripts": {
     "start": "react-scripts start",
     "deploy": "npm run build && gh-pages -d build",
