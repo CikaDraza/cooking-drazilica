@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "yarn run public",
+    "predeploy": "npm run public",
     "deploy": "gh-pages -d public",
     "build": "react-scripts build",
     "test": "react-scripts test",
