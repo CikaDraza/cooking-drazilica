@@ -10,7 +10,7 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
-    "deploy": "gh-pages -d recipes_app",
+    "deploy": "gh-pages -d public",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
