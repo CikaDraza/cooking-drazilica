@@ -8,7 +8,7 @@
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
   },
-  "homepage": "https://cikadraza.github.io/Drazilica-Recipes/",
+  "homepage": "https://cikadraza.github.io/drazilica-recipes/",
   "scripts": {
     "start": "react-scripts start",
     "deploy": "gh-pages -d build",
