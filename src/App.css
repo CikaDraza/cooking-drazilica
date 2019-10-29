@@ -171,6 +171,7 @@ hr {
   font-size: 18px;
   padding: 10px;
   bottom: 0;
-  position: absolute;
+  position: relative;
   height: 50px;
+  width: 100%;
 }
