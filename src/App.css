@@ -171,5 +171,5 @@ hr {
   font-size: 18px;
   padding: 10px;
   bottom: 0;
-  position: relative;
+  position: absolute;
 }
