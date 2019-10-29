@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "baef421dcb591dd54d1de3ac359e20ea",
+    "revision": "d720de8218db3be85a0fde5ed9b36645",
     "url": "/cooking-drazilica/index.html"
   },
   {
-    "revision": "2b433ec0a9ff0c8a480e",
-    "url": "/cooking-drazilica/static/css/main.f365326c.chunk.css"
+    "revision": "5715a03199c7971bd200",
+    "url": "/cooking-drazilica/static/css/main.a3763cef.chunk.css"
   },
   {
     "revision": "828291802bf045a9fe2b",
     "url": "/cooking-drazilica/static/js/2.56fcdf75.chunk.js"
   },
   {
-    "revision": "2b433ec0a9ff0c8a480e",
+    "revision": "5715a03199c7971bd200",
     "url": "/cooking-drazilica/static/js/main.79f19384.chunk.js"
   },
   {
