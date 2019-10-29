@@ -170,4 +170,6 @@ hr {
   color: rgb(117, 117, 117);
   font-size: 18px;
   padding: 10px;
+  bottom: 0;
+  position: relative;
 }
