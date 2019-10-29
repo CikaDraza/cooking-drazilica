@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/drazilica-recipes/static/css/main.d5ef84e2.chunk.css",
+    "main.js": "/drazilica-recipes/static/js/main.3aa2db84.chunk.js",
+    "main.js.map": "/drazilica-recipes/static/js/main.3aa2db84.chunk.js.map",
+    "runtime-main.js": "/drazilica-recipes/static/js/runtime-main.e117b7d8.js",
+    "runtime-main.js.map": "/drazilica-recipes/static/js/runtime-main.e117b7d8.js.map",
+    "static/js/2.56fcdf75.chunk.js": "/drazilica-recipes/static/js/2.56fcdf75.chunk.js",
+    "static/js/2.56fcdf75.chunk.js.map": "/drazilica-recipes/static/js/2.56fcdf75.chunk.js.map",
+    "index.html": "/drazilica-recipes/index.html",
+    "precache-manifest.dfcd8db0ac59212f972ac105e3849866.js": "/drazilica-recipes/precache-manifest.dfcd8db0ac59212f972ac105e3849866.js",
+    "service-worker.js": "/drazilica-recipes/service-worker.js",
+    "static/css/main.d5ef84e2.chunk.css.map": "/drazilica-recipes/static/css/main.d5ef84e2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e117b7d8.js",
+    "static/js/2.56fcdf75.chunk.js",
+    "static/css/main.d5ef84e2.chunk.css",
+    "static/js/main.3aa2db84.chunk.js"
+  ]
+}
