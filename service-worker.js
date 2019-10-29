@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cooking-drazilica/precache-manifest.afb968ca829d853b2f27e3a920d0c504.js"
+  "/cooking-drazilica/precache-manifest.85aa7753c43518430429e99306d54883.js"
 );
 
 self.addEventListener('message', (event) => {

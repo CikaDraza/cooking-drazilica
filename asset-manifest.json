@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cooking-drazilica/static/css/main.a3763cef.chunk.css",
+    "main.css": "/cooking-drazilica/static/css/main.849f18f3.chunk.css",
     "main.js": "/cooking-drazilica/static/js/main.79f19384.chunk.js",
     "main.js.map": "/cooking-drazilica/static/js/main.79f19384.chunk.js.map",
     "runtime-main.js": "/cooking-drazilica/static/js/runtime-main.1a4c0287.js",
@@ -8,14 +8,14 @@
     "static/js/2.56fcdf75.chunk.js": "/cooking-drazilica/static/js/2.56fcdf75.chunk.js",
     "static/js/2.56fcdf75.chunk.js.map": "/cooking-drazilica/static/js/2.56fcdf75.chunk.js.map",
     "index.html": "/cooking-drazilica/index.html",
-    "precache-manifest.afb968ca829d853b2f27e3a920d0c504.js": "/cooking-drazilica/precache-manifest.afb968ca829d853b2f27e3a920d0c504.js",
+    "precache-manifest.85aa7753c43518430429e99306d54883.js": "/cooking-drazilica/precache-manifest.85aa7753c43518430429e99306d54883.js",
     "service-worker.js": "/cooking-drazilica/service-worker.js",
-    "static/css/main.a3763cef.chunk.css.map": "/cooking-drazilica/static/css/main.a3763cef.chunk.css.map"
+    "static/css/main.849f18f3.chunk.css.map": "/cooking-drazilica/static/css/main.849f18f3.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.1a4c0287.js",
     "static/js/2.56fcdf75.chunk.js",
-    "static/css/main.a3763cef.chunk.css",
+    "static/css/main.849f18f3.chunk.css",
     "static/js/main.79f19384.chunk.js"
   ]
 }
