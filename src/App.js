@@ -41,7 +41,7 @@ function App() {
   };
 
   return (
-        <div>
+        <div id="main">
           <div className="header App-header App">
             <div className="top-header">
               <div className="search">
