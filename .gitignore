@@ -4,7 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-/public/FileZilla_3.45.1_win64_sponsored-setup.exe
 # testing
 /coverage
 
