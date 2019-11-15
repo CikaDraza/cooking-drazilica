@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/cooking-drazilica/static/css/main.849f18f3.chunk.css",
-    "main.js": "/cooking-drazilica/static/js/main.79f19384.chunk.js",
-    "main.js.map": "/cooking-drazilica/static/js/main.79f19384.chunk.js.map",
+    "main.css": "/cooking-drazilica/static/css/main.8c3f0c54.chunk.css",
+    "main.js": "/cooking-drazilica/static/js/main.2a0382b7.chunk.js",
+    "main.js.map": "/cooking-drazilica/static/js/main.2a0382b7.chunk.js.map",
     "runtime-main.js": "/cooking-drazilica/static/js/runtime-main.1a4c0287.js",
     "runtime-main.js.map": "/cooking-drazilica/static/js/runtime-main.1a4c0287.js.map",
-    "static/js/2.56fcdf75.chunk.js": "/cooking-drazilica/static/js/2.56fcdf75.chunk.js",
-    "static/js/2.56fcdf75.chunk.js.map": "/cooking-drazilica/static/js/2.56fcdf75.chunk.js.map",
+    "static/js/2.21bfd434.chunk.js": "/cooking-drazilica/static/js/2.21bfd434.chunk.js",
+    "static/js/2.21bfd434.chunk.js.map": "/cooking-drazilica/static/js/2.21bfd434.chunk.js.map",
     "index.html": "/cooking-drazilica/index.html",
-    "precache-manifest.85aa7753c43518430429e99306d54883.js": "/cooking-drazilica/precache-manifest.85aa7753c43518430429e99306d54883.js",
+    "precache-manifest.6bab7a01b2e2c9bfb50dc709168ab2bb.js": "/cooking-drazilica/precache-manifest.6bab7a01b2e2c9bfb50dc709168ab2bb.js",
     "service-worker.js": "/cooking-drazilica/service-worker.js",
-    "static/css/main.849f18f3.chunk.css.map": "/cooking-drazilica/static/css/main.849f18f3.chunk.css.map"
+    "static/css/main.8c3f0c54.chunk.css.map": "/cooking-drazilica/static/css/main.8c3f0c54.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.1a4c0287.js",
-    "static/js/2.56fcdf75.chunk.js",
-    "static/css/main.849f18f3.chunk.css",
-    "static/js/main.79f19384.chunk.js"
+    "static/js/2.21bfd434.chunk.js",
+    "static/css/main.8c3f0c54.chunk.css",
+    "static/js/main.2a0382b7.chunk.js"
   ]
 }
