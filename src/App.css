@@ -1,226 +1,233 @@
-#main {
-  overflow-x: hidden;
-  margin: 0;
-  padding: 0;
-}
-
 .App {
-  text-align: center;
+	text-align: center;
 }
 
 .App-logo {
-  height: 40vmin;
+	height: 40vmin;
 }
 
-.App-header {  
-  display: flex;
-  flex-direction: column;
-  font-size: calc(10px + 2vmin);
-  color: white;
-  height: 10%;
-  width: 100%;
+.App-header {
+	display: flex;
+	flex-direction: column;
+	font-size: calc(10px + 2vmin);
+	color: white;
+	height: 10%;
+	width: 100%;
 }
 
 .App-link {
-  color: #09d3ac;
+	color: #09d3ac;
 }
 
 .top-header {
-  min-width: 100%;
-  height: 60px;
-  background-color: #ECECEC;
-  display: flex;
-  /* align-items: center; */
-  /*justify-content: center; */
-  flex-direction: row;
+	min-width: 100%;
+	height: 60px;
+	background-color: #ececec;
+	display: flex;
+	flex-direction: row;
 }
 
 .bottom-header {
-  display: flex;
-  justify-content: center;
-  background-color: #F4F4F4;
-  min-width: 100%;
-  border: 1px solid #ffff;
-  color: rgb(114, 114, 114);
-  font-size: 18px;
-  padding: 10px 0;
+	display: flex;
+	justify-content: center;
+	background-color: #f4f4f4;
+	min-width: 100%;
+	border: 1px solid #ffff;
+	color: rgb(114, 114, 114);
+	font-size: 18px;
+	padding: 10px 0;
 }
 
 .search {
-  position: relative;
-  left: 50%;
-  transform: translate(-50%);
+	position: relative;
+	left: 50%;
+	margin: auto 0;
+	transform: translate(-50%);
 }
 
 form.search-form {
-  height: 35px;
+	height: 35px;
 }
 
 .search-bar {
-  padding: 8px 20px;
-  outline-color: aqua;
-  box-sizing: border-box;
-  color: dimgrey;
+	padding: 5px 10px;
+	outline-color: aqua;
+	box-sizing: border-box;
+	color: dimgrey;
+	height: 30px;
 }
 
 .search-button {
-  border: none;
-  background-color: #09d3ac;
-  padding: 10px 20px;
-  color: aliceblue;
-  box-sizing: border-box;
-  outline-color: #666666;
+	border: none;
+	background-color: #09d3ac;
+	padding: 5px 20px;
+	color: #ffff;
+	box-sizing: border-box;
+	outline-color: #1a1818;
+	height: 30px;
 }
 
 .items-cart {
-  position: absolute;
-  width: 5%;
-  right: 0;
-  line-height: 1.8;
+	position: absolute;
+	width: 5%;
+	right: 2%;
+	margin: 10px auto;
 }
 
 .num-items {
-  border-radius: 50%;
-  background-color: red;
-  box-sizing: border-box;
-  font-size: 12px;
-  width: 20px;
-  height: 20px;
-  display: inline-block;
-  /* visibility: hidden; */
-  margin: 0;
+	border-radius: 50%;
+	background-color: red;
+	box-sizing: border-box;
+	font-size: 12px;
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	/* visibility: hidden; */
+	margin: 0;
+	padding: 5px;
+	line-height: 1;
+}
+
+.hidden {
+	display: none;
 }
 
 .items-cart img {
-  width: 50%;
-  margin: 5px auto;
-  cursor: pointer;
+	width: 50%;
+	margin: 5px auto;
+	cursor: pointer;
 }
 
 .container {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+	width: 90%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin: auto 50px;
 }
 
 .main {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  grid-template-rows: repeat(2, 1fr);
-  margin: 20px;
-  grid-column-gap: 1.5em;
-  grid-row-gap: 1em;
+	width: 100%;
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	/* grid-template-rows: repeat(2, 1fr); */
+	margin: 20px;
+	grid-column-gap: 1.5em;
+	grid-row-gap: 1em;
 }
 
 .card-recipe {
-  background-color: #ECECEC;
-  border: 1px solid rgb(233, 233, 233);
-  display: flex;
-  justify-content: center;
-  width: 200px;
-  position: relative;
+	background-color: #ececec;
+	border: 1px solid rgb(233, 233, 233);
+	display: flex;
+	justify-content: center;
+	width: 200px;
+	position: relative;
+	margin: 0 auto;
 }
 
 a {
-  text-decoration: none;
+	text-decoration: none;
 }
 
 a.card:hover .title {
-  color: #09d3ac;
-  cursor: pointer;
+	color: #09d3ac;
+	cursor: pointer;
 }
 
 .container-card {
-  width: 95%;
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
+	width: 95%;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
 }
 
 .card-recipe h4 {
-  color: rgb(117, 117, 117);
-  margin-left: 2px;
-  display: block;
+	color: rgb(117, 117, 117);
+	margin: 20px auto;
+	width: 100%;
+	height: 30px;
+	display: block;
 }
 
 .card-recipe h5 {
-  color: rgb(148, 148, 148);
-  margin: 5px 10px;
+	color: rgb(148, 148, 148);
+	margin: 5px 10px;
 }
 
 .save-recipes {
-  position: absolute;
-  background-color: rgb(226, 226, 226);
-  width: 0px;
-  height: 30px;
-  top: 10px;
-  left: 10px;
-  text-decoration: none;
-  display: flex;
-  flex-wrap: nowrap;
-  visibility: hidden;
-  transition: width .5s, font-size .6s;
-  font-size: 0px;
-  border-radius: 2px 2px 10px 2px;
+	position: absolute;
+	background-color: rgb(226, 226, 226);
+	width: 0px;
+	height: 30px;
+	top: 10px;
+	left: 10px;
+	text-decoration: none;
+	display: flex;
+	flex-wrap: nowrap;
+	visibility: hidden;
+	transition: width .5s, font-size .6s;
+	font-size: 0px;
+	border-radius: 2px 2px 10px 2px;
 }
 
 a.card:hover a.save-recipes {
-  visibility: visible;
-  width: 80px;
-  font-size: 18px;
+	visibility: visible;
+	width: 80px;
+	font-size: 18px;
 }
 
 .save-recipes:hover {
-  background-color: #cdffd8;
+	background-color: #cdffd8;
 }
 
 .save-recipes span {
-  text-decoration: none;
-  color: rgb(148, 148, 148);
-  text-align: right;
-  padding: 3px 0 0 7px;
+	text-decoration: none;
+	color: rgb(148, 148, 148);
+	text-align: right;
+	padding: 3px 0 0 7px;
 }
 
 a.save-recipes img {
-  height: 90%;
-  width: 27%;
-  position: relative;
-  padding: 0 0 3px 2px;
+	height: 90%;
+	width: 27%;
+	position: relative;
+	padding: 0 0 3px 2px;
 }
 
 .weight {
-  border-left: 1px solid rgb(179, 179, 179);
-  margin-left: 5px;
+	border-left: 1px solid rgb(179, 179, 179);
+	margin-left: 5px;
 }
 
 .card-recipe img {
-  width: 100%;
+	width: 100%;
+	margin: 5px auto;
 }
 
 hr {
-  width: 90%;
+	width: 90%;
 }
 
 .title {
-  cursor: pointer;
+	cursor: pointer;
 }
 
 .source a {
-  cursor: pointer;
-  color: rgb(148, 148, 148);
-  text-decoration: none;
+	cursor: pointer;
+	color: rgb(148, 148, 148);
+	text-decoration: none;
 }
 
 .source a:hover {
-  text-decoration: underline;
+	text-decoration: underline;
 }
 
 .footer {
-  color: rgb(117, 117, 117);
-  font-size: 18px;
-  padding: 10px 0;
-  position: absolute;
-  width: 100%;
+	color: rgb(117, 117, 117);
+	font-size: 18px;
+	padding: 10px 0;
+	position: absolute;
+	width: 100%;
 }
