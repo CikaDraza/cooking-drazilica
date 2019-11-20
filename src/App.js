@@ -3,14 +3,14 @@ import ReactDOM from 'react-dom';
 import Recipe from './components/Recipes';
 import './App.css';
 import Counter from './components/counter';
+import {APP_ID} from './keys/App_keys';
+import {APP_KEY} from './keys/App_keys';
 
 function App() {
-	const APP_ID = '0fba610d';
-	const APP_KEY = 'ab0b446842fcd0b4bee6d5e3de71c666';
 
 	const [ recipes, setRecipes ] = useState([]);
 	const [ search, setSearch ] = useState('');
-	const [ query, setQuery ] = useState('chicken');
+	const [ query, setQuery ] = useState('pork');
 
 	useEffect(
 		() => {
