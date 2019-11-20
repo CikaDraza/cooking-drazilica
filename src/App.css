@@ -73,10 +73,9 @@ form.search-form {
 }
 
 .items-cart {
-	position: relative;
+	position: absolute;
     width: 7%;
-    height: 100%;
-    left: 70%;
+    right: 0%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -102,12 +101,10 @@ form.search-form {
 
 .items-cart img {
 	width: 45%;
-	margin: 5px auto;
 	cursor: pointer;
 }
 
 .container {
-	width: 90%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
