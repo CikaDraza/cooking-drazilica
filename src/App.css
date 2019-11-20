@@ -195,7 +195,7 @@ a.card:hover a.save-recipes {
 a.save-recipes img {
 	height: 90%;
 	width: 27%;
-	position: relative;
+	margin: 0;
 	padding: 0 0 3px 2px;
 }
 
